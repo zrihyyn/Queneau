@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(/answerdifficult.jpg);
+  background-image: url(answerdifficult.jpg);
   background-size: cover;
 }
 
@@ -80,4 +80,4 @@ legend {
   transform: translateX(-50%);
   text-decoration: none;
   font-size: 16px;
-}/*# sourceMappingURL=style8.css.map */
+}
