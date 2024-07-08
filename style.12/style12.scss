@@ -13,9 +13,11 @@
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+  }
+
+  a{
     cursor: pointer;
   }
-  
   body, main {
     display: flex;
     flex-direction: column;

@@ -7,7 +7,7 @@ body {
 body * {
   z-index: 20;
   color: #000;
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #light {

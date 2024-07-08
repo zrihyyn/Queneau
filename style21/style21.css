@@ -1,5 +1,4 @@
 @charset "UTF-8";
-/*Sizing & Transition*/
 *, *:after, *:before {
   box-sizing: border-box;
   overflow: hidden;
@@ -65,7 +64,7 @@ h2:after {
   height: 400px;
   width: 900px;
   margin: 0 auto;
-  background: url(/ghost-1_ver_1.png);
+  background: url(ghost-1_ver_1.png);
   display: none;
 }
 
