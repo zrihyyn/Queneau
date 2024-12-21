@@ -80,4 +80,27 @@ legend {
   transform: translateX(-50%);
   text-decoration: none;
   font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  #index {
+    width: 100px;
+    left: 10px;
+  }
+  .story {
+    flex-direction: column;
+  }
+  .story p {
+    max-width: 90vw;
+    margin-left: 0;
+    padding: 20px;
+    font-size: 13px;
+    line-height: 25px;
+    margin: 40px;
+    margin-top: 150px;
+  }
+  .navigate-button {
+    font-size: 14px;
+    padding: 8px;
+  }
 }/*# sourceMappingURL=style8.css.map */
